@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" width="200" height="50">
+  <!-- Bitcoin orange circle background for B -->
+  <circle cx="25" cy="25" r="22" fill="#f7931a"/>
+  <!-- B letter with white color integrated with bitcoin symbol -->
+  <path d="M15 12h10c6 0 10 3 10 8 0 3-2 5-2 5 0 5 2 4 2 6 5 6v2c0 4-2 7-6 7h-10zm8 14c2 0 3-1 3-3v-2c0-2-1-3-3-3h-5v8zm-8-12v8h5c2 0 3-1 3-3v-2c0-2-1-3-3-3z" fill="white"/>
+  <!-- BitWin text -->
+  <text x="55" y="32" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="bold" fill="#f7931a">Bit<tspan fill="#1f2937">Win</tspan></text>
+</svg>
